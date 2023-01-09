@@ -20,5 +20,5 @@
 -  git log
   ## 7. Lokális változások szinkronizálása a távoli repróba
   - git push
-- ## 8. Távoli repó másolása (klónozása) a lokális repóba
+  ## 8. Távoli repó másolása (klónozása) a lokális repóba
   - git clone "távoli repó URL címe"
