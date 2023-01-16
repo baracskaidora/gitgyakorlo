@@ -24,13 +24,13 @@
   - git clone "távoli repó URL címe"
   ## 9. Ágak (branches) kezelése
   > Lokális ágak listázása
-    - git branch
+  - git branch
   >Lokális és távoli ágak listázás
-    - git branc -av
+  - git branc -av
   > Ág létrehozása (-b és váltása)
-    - git branch új_ág_neve
-    - git checout -b új_ág_neve
+  - git branch új_ág_neve
+  - git checout -b új_ág_neve
   > Váltás másik ágra
-    - git checkout új_ág_neve
+  - git checkout új_ág_neve
   >Ág törlése (aktuális ág nem törölhető)
-    - git branch - törlendő_ág_neve
+  - git branch - törlendő_ág_neve
