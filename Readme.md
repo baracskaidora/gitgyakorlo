@@ -25,7 +25,7 @@
   ## 9. Ágak (branches) kezelése
   > Lokális ágak listázása
   - git branch
-  >Lokális és távoli ágak listázás
+  > Lokális és távoli ágak listázás
   - git branc -av
   > Ág létrehozása (-b és váltása)
   - git branch új_ág_neve
