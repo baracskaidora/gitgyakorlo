@@ -34,4 +34,7 @@
   - git checkout új_ág_neve
   > Ág törlése (aktuális ág nem törölhető)
   - git branch - törlendő_ág_neve
+  > Változások átvezetése (merge)
+  - git checkout ág_ahová_kerülnek_a_változások
+  - git merge ág_ahonnan_áthozzuk_a_változásokat
   ##  
